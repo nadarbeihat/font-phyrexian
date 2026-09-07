@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Phyrexian Keyboard</string>
+    <string name="step1_title">Step 1 — Enable the keyboard</string>
+    <string name="step1_body">Turn on "Phyrexian Keyboard" in your system keyboard list.</string>
+    <string name="step1_button">Open Keyboard Settings</string>
+    <string name="step2_title">Step 2 — Switch to it</string>
+    <string name="step2_body">Tap any text field, open the keyboard switcher, and pick Phyrexian Keyboard.</string>
+    <string name="step2_button">Choose Input Method</string>
+    <string name="note_title">Good to know</string>
+    <string name="note_body">This keyboard lets you type in glyphs on the key caps and preview bar. The text it sends to apps is normal English text, so it can be read by anyone — it will only *look* Phyrexian to people who also have the Phyrexia Neue font installed, or if you send a screenshot.</string>
+</resources>

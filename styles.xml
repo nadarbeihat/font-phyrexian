@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.Phyrexian" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#5B0A0A</item>
+        <item name="colorPrimaryDark">#3A0505</item>
+        <item name="colorAccent">#C9A86A</item>
+        <item name="android:windowBackground">#12100E</item>
+    </style>
+</resources>

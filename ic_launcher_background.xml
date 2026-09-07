@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:pathData="M0,0h108v108h-108z" android:fillColor="#12100E"/>
+    <!-- card body -->
+    <path
+        android:pathData="M20,10 h68 a8,8 0 0 1 8,8 v72 a8,8 0 0 1 -8,8 h-68 a8,8 0 0 1 -8,-8 v-72 a8,8 0 0 1 8,-8 z"
+        android:fillColor="#5B0A0A"
+        android:strokeColor="#C9A86A"
+        android:strokeWidth="2.5"/>
+    <!-- inner text box of the card -->
+    <path
+        android:pathData="M26,58 h56 a4,4 0 0 1 4,4 v24 a4,4 0 0 1 -4,4 h-56 a4,4 0 0 1 -4,-4 v-24 a4,4 0 0 1 4,-4 z"
+        android:fillColor="#2A211A"/>
+</vector>
